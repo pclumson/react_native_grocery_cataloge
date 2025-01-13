@@ -78,16 +78,4 @@
     });
 
     export {styles}
-    flex: 1,
-    paddingTop: 40,  // Sets 40px space from the top
-  },
-  brandName: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    textAlign: 'center',
-    color: '#F48021',
-    marginBottom: 10,
-  }
-});
 
-export {styles}
